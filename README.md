@@ -1,7 +1,7 @@
 # Thailand-Cyber-Top-Talent-2022
 # network_security
 
-network_security01
+#network_security01
 
 1 binwalk -e network_security01.pcap
 
@@ -10,7 +10,7 @@ network_security01
 flag : tctt2022{Steal_Data_via_FTP}
 
 
-network_security02
+#network_security02
 
 1binwalk -e network_security02.pcap
 

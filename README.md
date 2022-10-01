@@ -11,9 +11,8 @@ network_security01
 flag : tctt2022{Steal_Data_via_FTP}
 ```
 
-```bash
-
 network_security02
+```bash
 
 1binwalk -e network_security02.pcap
 

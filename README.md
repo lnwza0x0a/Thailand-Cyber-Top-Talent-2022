@@ -14,7 +14,7 @@ flag : tctt2022{Steal_Data_via_FTP}
 network_security02
 ```bash
 
-1binwalk -e network_security02.pcap
+1 binwalk -e network_security02.pcap
 
 2 extract zip file P@ssw0rd
 

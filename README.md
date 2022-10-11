@@ -20,3 +20,14 @@ network_security02
 
 flag : tctt2022{Welcome_R00t_T3ln3t}
 ```
+
+# Programning
+
+
+programming-challenge02.md
+```bash
+1 unzip program-challenge02.zip
+2 python3 exploit.py | base64 -d | grep -o -E 'tctt2022{(.*?)}'
+
+flag : tctt2022{r3P37i7Iv3_745K5_N33d_4U7Om47IoN}
+```
